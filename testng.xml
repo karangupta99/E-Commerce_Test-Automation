@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="E-commerce Test Suite" parallel="tests" thread-count="4">
+    
+    <!-- Authentication & Account Management (Team1Runner) -->
+    <test name="Authentication &amp; Account Tests" preserve-order="true">
+        <classes>
+            <class name="com.commerza.runners.Team1Runner"/>
+        </classes>
+    </test>
+    
+    <!-- Product Browsing & Search (ProductBrowsingRunner) -->
+    <test name="Product Experience Tests" preserve-order="true">
+        <classes>
+            <class name="com.commerza.runners.ProductBrowsing"/>
+        </classes>
+    </test>
+    
+    <!-- Shopping Cart & Checkout (ShoppingCart) -->
+    <test name="Cart &amp; Checkout Tests" preserve-order="true">
+        <classes>
+            <class name="com.commerza.runners.ShoppingCart"/>
+        </classes>
+    </test>
+    
+    <!-- Admin Panel & Order Management (Team4Runner) -->
+    <test name="Admin &amp; Fulfilment Tests" preserve-order="true">
+        <classes>
+            <class name="com.commerza.runners.AdminPannel"/>
+        </classes>
+    </test>
+    
+</suite>

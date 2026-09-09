@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "total": 40,
+    "currency": "PKR",
+    "lastUpdated": "2026-01-18"
+  },
+  "sections": [
+    {
+      "sectionId": "featured-collection",
+      "sectionName": "Featured Collection",
+      "category": "Premium Watches & Accessories",
+      "subcategory": "Luxury Timepieces",
+      "page": "index.html",
+      "products": [
+        {
+          "id": 1,
+          "name": "White Gold Steel Watch",
+          "description": "Premium white dial with golden accents, stainless steel case with automatic movement mechanism.",
+          "image": "frontend/assets/images/products/featured/white-gold-steel.webp",
+          "price": 8500,
+          "salePrice": 6200,
+          "stock": 45,
+          "movement": "auto"
+        },
+        {
+          "id": 2,
+          "name": "Black White Gold Watch",
+          "description": "Premium black leather strap with white and golden dial, smooth automatic movement.",
+          "image": "frontend/assets/images/products/featured/black-white-gold.webp",
+          "price": 9200,
+          "salePrice": 7100,
+          "stock": 32,
+          "movement": "auto"
+        },
+        {
+          "id": 3,
+          "name": "Skeleton Gold Steel Watch",
+          "description": "White and golden skeleton display with premium steel case, clear and clean design with automatic movement.",
+          "image": "frontend/assets/images/products/featured/skeleton-gold-steel.webp",
+          "price": 11500,
+          "salePrice": 8900,
+          "stock": 28,
+          "movement": "auto"
+        },
+        {
+          "id": 4,
+          "name": "Brown White Gold Watch",
+          "description": "Rich brown leather strap with white and golden dial, premium automatic movement.",
+          "image": "frontend/assets/images/products/featured/brown-gold-dial.webp",
+          "price": 12800,
+          "salePrice": 9600,
+          "stock": 38,
+          "movement": "auto"
+        },
+        {
+          "id": 5,
+          "name": "Black Gold Dial Watch",
+          "description": "Elegant black leather strap with stunning golden dial, precision automatic movement mechanism.",
+          "image": "frontend/assets/images/products/featured/black-gold-dial.webp",
+          "price": 10200,
+          "salePrice": 7800,
+          "stock": 52,
+          "movement": "auto"
+        },
+        {
+          "id": 6,
+          "name": "Brown Gold Premium Watch",
+          "description": "Rich brown leather with luxurious golden dial, crafted with premium automatic movement.",
+          "image": "frontend/assets/images/products/featured/brown-premium-watch.webp",
+          "price": 13500,
+          "salePrice": 10200,
+          "stock": 25,
+          "movement": "auto"
+        },
+        {
+          "id": 7,
+          "name": "Premium Black Gold Watch",
+          "description": "Premium black leather strap with premium golden dial, smooth and refined automatic movement.",
+          "image": "frontend/assets/images/products/featured/premium-black-gold.webp",
+          "price": 16500,
+          "salePrice": 12400,
+          "stock": 18,
+          "movement": "auto"
+        },
+        {
+          "id": 8,
+          "name": "Black Minimalist Watch",
+          "description": "Modern minimalist design with black leather strap, clean and simple automatic movement.",
+          "image": "frontend/assets/images/products/featured/black-minimalist.webp",
+          "price": 11000,
+          "salePrice": 8300,
+          "stock": 41,
+          "movement": "auto"
+        },
+        {
+          "id": 9,
+          "name": "Black Feather Watch",
+          "description": "Elegant black watch with subtle design details and lightweight comfort.",
+          "image": "frontend/assets/images/products/featured/black-feather.webp",
+          "price": 18500,
+          "salePrice": 14200,
+          "stock": 22,
+          "movement": "auto"
+        },
+        {
+          "id": 10,
+          "name": "Luxury White Gold Watch",
+          "description": "Ultimate luxury timepiece with white gold accents and premium dial craftsmanship.",
+          "image": "frontend/assets/images/products/featured/luxury-white-gold.webp",
+          "price": 21500,
+          "salePrice": 16800,
+          "stock": 15,
+          "movement": "auto"
+        }
+      ]
+    },
+    {
+      "sectionId": "automatic-vault",
+      "sectionName": "The Automatic Vault",
+      "category": "Premium Watches",
+      "subcategory": "Mechanical & Smart Timepieces",
+      "page": "shop-category-a.html",
+      "products": [
+        {
+          "id": 11,
+          "name": "White Gold Steel Watch",
+          "description": "Premium white dial with golden accents, stainless steel case with automatic movement mechanism.",
+          "image": "frontend/assets/images/products/featured/white-gold-steel.webp",
+          "price": 8500,
+          "salePrice": 6200,
+          "stock": 45,
+          "movement": "auto"
+        },
+        {
+          "id": 12,
+          "name": "Black White Gold Watch",
+          "description": "Premium black leather strap with white and golden dial, smooth automatic movement.",
+          "image": "frontend/assets/images/products/featured/black-white-gold.webp",
+          "price": 9200,
+          "salePrice": 7100,
+          "stock": 32,
+          "movement": "auto"
+        },
+        {
+          "id": 13,
+          "name": "Skeleton Gold Steel Watch",
+          "description": "White and golden skeleton display with premium steel case, clear and clean design with automatic movement.",
+          "image": "frontend/assets/images/products/featured/skeleton-gold-steel.webp",
+          "price": 11500,
+          "salePrice": 8900,
+          "stock": 28,
+          "movement": "auto"
+        },
+        {
+          "id": 14,
+          "name": "Brown White Gold Watch",
+          "description": "Rich brown leather strap with white and golden dial, premium automatic movement.",
+          "image": "frontend/assets/images/products/featured/brown-gold-dial.webp",
+          "price": 12800,
+          "salePrice": 9600,
+          "stock": 38,
+          "movement": "auto"
+        },
+        {
+          "id": 15,
+          "name": "Black Gold Dial Watch",
+          "description": "Elegant black leather strap with stunning golden dial, precision automatic movement mechanism.",
+          "image": "frontend/assets/images/products/featured/black-gold-dial.webp",
+          "price": 10200,
+          "salePrice": 7800,
+          "stock": 52,
+          "movement": "auto"
+        },
+        {
+          "id": 16,
+          "name": "Brown Gold Premium Watch",
+          "description": "Rich brown leather with luxurious golden dial, crafted with premium automatic movement.",
+          "image": "frontend/assets/images/products/featured/brown-premium-watch.webp",
+          "price": 13500,
+          "salePrice": 10200,
+          "stock": 25,
+          "movement": "auto"
+        },
+        {
+          "id": 17,
+          "name": "Premium Black Gold Watch",
+          "description": "Premium black leather strap with premium golden dial, smooth and refined automatic movement.",
+          "image": "frontend/assets/images/products/featured/premium-black-gold.webp",
+          "price": 16500,
+          "salePrice": 12400,
+          "stock": 18,
+          "movement": "auto"
+        },
+        {
+          "id": 18,
+          "name": "Black Minimalist Watch",
+          "description": "Modern minimalist design with black leather strap, clean and simple automatic movement.",
+          "image": "frontend/assets/images/products/featured/black-minimalist.webp",
+          "price": 11000,
+          "salePrice": 8300,
+          "stock": 41,
+          "movement": "auto"
+        }
+      ]
+    },
+    {
+      "sectionId": "smart-evolution",
+      "sectionName": "Smart Evolution Series",
+      "category": "Premium Watches",
+      "subcategory": "Mechanical & Smart Timepieces",
+      "page": "shop-category-a.html",
+      "products": [
+        {
+          "id": 19,
+          "name": "Fajr - Hybrid Digital Rectangle Watch",
+          "description": "Advanced hybrid digital display with rectangular design, combining intelligent timekeeping with modern aesthetics and reliable smart features.",
+          "image": "frontend/assets/images/products/smart/Fajr - Hybrid Digital Rectangle Watch.webp",
+          "price": 7000,
+          "salePrice": 5500,
+          "stock": 35,
+          "movement": "quartz"
+        },
+        {
+          "id": 20,
+          "name": "Fajr - Hybrid Digital Round Watch",
+          "description": "Elegant hybrid digital timepiece with round dial, seamlessly blending traditional watch aesthetics with cutting-edge smart connectivity.",
+          "image": "frontend/assets/images/products/smart/Fajr - Hybrid Digital Round Watch.webp",
+          "price": 7500,
+          "salePrice": 6500,
+          "stock": 29,
+          "movement": "quartz"
+        },
+        {
+          "id": 21,
+          "name": "Hango X - Skmei Digital Watch - Black",
+          "description": "Professional digital sports watch in sleek black finish, featuring multi-function display with water resistance and precision timing capabilities.",
+          "image": "frontend/assets/images/products/smart/Hango X - Skmei Digital Watch - Black.webp",
+          "price": 11500,
+          "salePrice": 8900,
+          "stock": 24,
+          "movement": "quartz"
+        },
+        {
+          "id": 22,
+          "name": "I-8 Pro Max Smart Watch",
+          "description": "Premium smart watch with advanced health monitoring, comprehensive fitness tracking, and seamless connectivity for the modern professional.",
+          "image": "frontend/assets/images/products/smart/I-8 Pro Max Smart Watch.webp",
+          "price": 14200,
+          "salePrice": 10800,
+          "stock": 19,
+          "movement": "smart"
+        },
+        {
+          "id": 23,
+          "name": "S-8 Pro Max Smart Watch",
+          "description": "Top-tier smart watch featuring advanced AI assistant, comprehensive health analytics, extended battery life, and premium build quality.",
+          "image": "frontend/assets/images/products/smart/S-8 Pro Max Smart Watch.webp",
+          "price": 18500,
+          "salePrice": 13800,
+          "stock": 14,
+          "movement": "smart"
+        },
+        {
+          "id": 24,
+          "name": "T800 Ultra 2 49 mm",
+          "description": "Rugged ultra-performance smart watch with expansive 49mm display, military-grade durability, extended battery endurance, and all-terrain capabilities.",
+          "image": "frontend/assets/images/products/smart/T800 Ultra 2 49 mm.webp",
+          "price": 16800,
+          "salePrice": 12600,
+          "stock": 17,
+          "movement": "smart"
+        },
+        {
+          "id": 25,
+          "name": "Ultra 8 Smart Watch",
+          "description": "Ultra-premium smart watch with sophisticated design, intuitive interface, comprehensive wellness monitoring, and seamless daily integration.",
+          "image": "frontend/assets/images/products/smart/Ultra 8 Smart Watch.webp",
+          "price": 20500,
+          "salePrice": 15500,
+          "stock": 12,
+          "movement": "smart"
+        }
+      ]
+    },
+    {
+      "sectionId": "signature-collection",
+      "sectionName": "The Signature Collection",
+      "category": "Lifestyle & Utility Watches",
+      "subcategory": "Minimalist & Sports Timepieces",
+      "page": "shop-category-b.html",
+      "products": [
+        {
+          "id": 26,
+          "name": "DENIM 3 - The Minimalist Watch",
+          "description": "Understated elegance in denim tones, featuring clean design and timeless appeal for everyday sophistication.",
+          "image": "frontend/assets/images/products/minimal/DENIM 3 - The Minimalist Watch.webp",
+          "price": 7000,
+          "salePrice": 5500,
+          "stock": 48,
+          "movement": "quartz"
+        },
+        {
+          "id": 27,
+          "name": "DI-STAR - CHAIN WATCH WITH DATE TWO TONE",
+          "description": "Sophisticated two-tone design with chain link style, date display, and refined aesthetic perfect for any occasion.",
+          "image": "frontend/assets/images/products/minimal/DI-STAR - CHAIN WATCH WITH DATE TWO TONE.webp",
+          "price": 7500,
+          "salePrice": 6500,
+          "stock": 36,
+          "movement": "quartz"
+        },
+        {
+          "id": 28,
+          "name": "Fued - Tomi Face Gear Dual Leather Straps Watch",
+          "description": "Versatile watch with dual interchangeable leather straps for flexible styling, combining practicality with refined minimalist design.",
+          "image": "frontend/assets/images/products/minimal/Fued - Tomi Face Gear Dual Leather Straps Watch.webp",
+          "price": 9000,
+          "salePrice": 8000,
+          "stock": 31,
+          "movement": "quartz"
+        },
+        {
+          "id": 29,
+          "name": "Galcia - Round Minimalist Watch WITH DATE",
+          "description": "Classic round dial with date window, embodying minimalist philosophy with excellent legibility and timeless appeal.",
+          "image": "frontend/assets/images/products/minimal/Galcia - Round Minimalist Watch WITH DATE.webp",
+          "price": 10000,
+          "salePrice": 9000,
+          "stock": 27,
+          "movement": "quartz"
+        },
+        {
+          "id": 30,
+          "name": "Square Tom - Minimalist Watch",
+          "description": "Bold square dial minimalist timepiece featuring clean edges and refined minimalism for contemporary style.",
+          "image": "frontend/assets/images/products/minimal/Square Tom - Minimalist Watch.webp",
+          "price": 11200,
+          "salePrice": 8500,
+          "stock": 33,
+          "movement": "quartz"
+        },
+        {
+          "id": 31,
+          "name": "TOMI T 105 - Tomi Face Gear Black Dial",
+          "description": "Professional timepiece with black dial and advanced gear mechanism, balancing sophistication with functional performance.",
+          "image": "frontend/assets/images/products/minimal/TOMI T 105 - Tomi Face Gear Black Dial.webp",
+          "price": 13200,
+          "salePrice": 9900,
+          "stock": 20,
+          "movement": "quartz"
+        },
+        {
+          "id": 32,
+          "name": "TOMI- Round Minimalist Watch WITH DATE",
+          "description": "Elegant round minimalist watch with date function, perfect companion for both casual and formal occasions.",
+          "image": "frontend/assets/images/products/minimal/TOMI- Round Minimalist Watch WITH DATE.webp",
+          "price": 15800,
+          "salePrice": 11800,
+          "stock": 16,
+          "movement": "quartz"
+        },
+        {
+          "id": 33,
+          "name": "X - Round Minimalist Watch (Half Cut)",
+          "description": "Unique minimalist watch with creative half-cut design, showcasing modern artistry and elegant simplicity.",
+          "image": "frontend/assets/images/products/minimal/X - Round Minimalist Watch (Half Cut).webp",
+          "price": 10800,
+          "salePrice": 8200,
+          "stock": 39,
+          "movement": "quartz"
+        }
+      ]
+    },
+    {
+      "sectionId": "sports-sales-division",
+      "sectionName": "The Sports & Sales Division",
+      "category": "Lifestyle & Utility Watches",
+      "subcategory": "Minimalist & Sports Timepieces",
+      "page": "shop-category-b.html",
+      "products": [
+        {
+          "id": 34,
+          "name": "Aura - Never Stop Minimal Watch with Date -N905",
+          "description": "Sleek sports watch with minimalist design and date function, engineered for active lifestyle and daily durability.",
+          "image": "frontend/assets/images/products/sports/Aura - Never Stop Minimal Watch with Date -N905.webp",
+          "price": 7000,
+          "salePrice": 5500,
+          "stock": 44,
+          "movement": "quartz"
+        },
+        {
+          "id": 35,
+          "name": "Chrona - Never Stop Minimal Watch - N928",
+          "description": "Performance-focused sports watch with chronograph functionality, perfect for timing and precision athletic activities.",
+          "image": "frontend/assets/images/products/sports/Chrona - Never Stop Minimal Watch - N928.webp",
+          "price": 7500,
+          "salePrice": 6500,
+          "stock": 34,
+          "movement": "quartz"
+        },
+        {
+          "id": 36,
+          "name": "Dagahra- Never Stop Casual sports Watch with date - N911",
+          "description": "Casual sports watch with date display, combining comfort with functionality for everyday athletic pursuits.",
+          "image": "frontend/assets/images/products/sports/Dagahra- Never Stop Casual sports Watch with date - N911.webp",
+          "price": 9000,
+          "salePrice": 8000,
+          "stock": 26,
+          "movement": "quartz"
+        },
+        {
+          "id": 37,
+          "name": "Newmoon - Never Stop Chronograph sports Watch with date - N902",
+          "description": "Advanced chronograph sports watch with date, featuring multiple timing functions and rugged design for serious athletes.",
+          "image": "frontend/assets/images/products/sports/Newmoon - Never Stop Chronograph sports Watch with date - N902.webp",
+          "price": 10000,
+          "salePrice": 9000,
+          "stock": 23,
+          "movement": "quartz"
+        },
+        {
+          "id": 38,
+          "name": "RECDIS - Skmei 3 Time Sports Watch With Stainless Steel",
+          "description": "Professional sports watch with triple time zones, stainless steel construction, ideal for international travelers and athletes.",
+          "image": "frontend/assets/images/products/sports/RECDIS - Skmei 3 Time Sports Watch With Stainless Steel.webp",
+          "price": 17800,
+          "salePrice": 13400,
+          "stock": 11,
+          "movement": "quartz"
+        },
+        {
+          "id": 39,
+          "name": "TOKDIS - Dual Time Sports Watch With Stainless Steel",
+          "description": "Robust dual-time sports watch with premium stainless steel build, featuring reliable timekeeping for active pursuits across time zones.",
+          "image": "frontend/assets/images/products/sports/TOKDIS - Dual Time Sports Watch With Stainless Steel.webp",
+          "price": 16200,
+          "salePrice": 12200,
+          "stock": 13,
+          "movement": "quartz"
+        },
+        {
+          "id": 40,
+          "name": "Yraz - Never Stop Casual sports Watch with date",
+          "description": "Casual sports watch with date window, versatile design perfect for everyday activities and weekend adventures with reliable performance.",
+          "image": "frontend/assets/images/products/sports/Yraz - Never Stop Casual sports Watch with date.webp",
+          "price": 19800,
+          "salePrice": 15100,
+          "stock": 9,
+          "movement": "quartz"
+        }
+      ]
+    }
+  ]
+}
